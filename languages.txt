@@ -4,5 +4,5 @@ kotlin
 scala
 ruby
 javascript
-rust new
+rust new 2
 
